@@ -1,5 +1,5 @@
 # DataVisualisation
-Project that investigates the relationship between Birthrate in Canada &amp; the changes in Female Workforce participation over time.
+Project that investigates the relationship between the birthrate in Canada &amp; the changes in Female Workforce participation between 1960-2015.
 In this project I have plotted the changes in Birthrate in Canada over time and noted a significant fall in the rate over the last 4 decades. 
 To investigate the causal relationship, I plotted Canadian GDP and the ratio of Female to Male participation over the same time-period. 
 There was a strong inverse correlation between rising Canadian GDP, rising Female to Male workforce participation and the fall in Birthrate 
